@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: xc369 AT cam.ac.uk
 
@@ -25,6 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD student at the [University of Cambridge](https://www.cam.ac.uk/) and a [Cambridge Trust](https://www.cambridgetrust.org/) Scholar. My PhD study is supported by the Cambridge Trust.
+I am a third-year PhD student at the [University of Cambridge](https://www.cam.ac.uk/) and a [Cambridge Trust](https://www.cambridgetrust.org/) Scholar, supported by the Cambridge Trust. I started my PhD in 2023.
 
-Before starting my PhD, I received my MSc in Applied Machine Learning from [Imperial College London](https://www.imperial.ac.uk/). Prior to that, I completed my undergraduate studies at Beihang University, where I received dual degrees in Instrumentation Science and Applied Mathematics.
+Before joining Cambridge, I received my MSc in Applied Machine Learning from [Imperial College London](https://www.imperial.ac.uk/). I completed my undergraduate studies at Beihang University from 2018 to 2022, where I received dual degrees in Instrumentation Science and Applied Mathematics.
+
+My current research interests focus on **Self Evolving Models, Agentic Learning Systems, and Multimodal Reasoning**. I also have relevant experience in world models and video generation.
+
+I am always open to research collaborations, technical discussions, and coffee chats. Feel free to reach out if you are interested in related topics.
