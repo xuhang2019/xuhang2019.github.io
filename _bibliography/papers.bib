@@ -7,5 +7,8 @@
   author    = {Liu, Xuanyi and Ji, Deyi and Liu, Liqun and Zhu, Lanyun and Chen, Xuhang and Xu, Qianxiong and Shu, Peng and Yu, Huan and Jiang, Jie and Gao, Feng and Ma, Siwei},
   booktitle = {International Conference on Machine Learning},
   year      = {2026},
-  selected  = {true}
+  selected  = {true},
+  html      = {https://github.com/},
+  code      = {https://github.com/},
+  abstract  = {Sparse camera-conditioned image-to-video generation presents a pivotal challenge: synthesizing geometrically consistent 3D motion from minimal pose cues. Existing methods, which largely rely on dense supervision or naive interpolation, suffer from severe pose drift and motion discontinuities due to the lack of robust 3D priors. In this paper, we introduce \textbf{CamGeo}, a novel framework that distills rich 3D geometric knowledge from a pre-trained video-to-3D model (VGGT) directly into the diffusion backbone. To achieve this without incurring inference latency, we propose a training-only distillation strategy. Specifically, CamGeo incorporates: (1) keyframe trajectory distillation that enforces cycle-consistency with sparse input poses, (2) cross-frame consistency distillation with both camera trajectory and depth constraints to generate consistent structure across unsupervised frames, and (3) a three-stage coarse-to-fine curriculum learning, progressively scales geometric complexity, from global structure coherence to fine-grained refinement, achieving stable optimization. Extensive experiments demonstrate that CamGeo achieves consistent improvements under various sparsity ratios.}
 }

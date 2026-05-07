@@ -1,8 +1,8 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/XuhangChen_CN_0506.pdf # path to your CV PDF file
-email: xc369@cam.ac.uk # your email address
+# cv_pdf: /assets/pdf/XuhangChen_CN_0506.pdf # path to your CV PDF file
+# email: xc369@cam.ac.uk # your email address
 # inspirehep_id: 1010907 # Inspire HEP author ID
 scholar_userid: pQqEv-wAAAAJ # your Google Scholar ID
 github_username: xuhang2019 # your GitHub user name
