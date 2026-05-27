@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-27'
 papers:
   pQqEv-wAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: 'SID: Multi-LLM Debate Driven by Self Signals'
     year: '2025'
   pQqEv-wAAAAJ:8k81kl-MbHgC:
-    citations: 11
+    citations: 12
     title: Wearable intelligent throat enables natural speech in stroke patients with dysarthria
     year: '2026'
   pQqEv-wAAAAJ:9yKSN-GCB0IC:
@@ -30,11 +30,11 @@ papers:
     title: A deep learning-enabled smart garment for versatile sleep behaviour monitoring.
     year: '2024'
   pQqEv-wAAAAJ:MXK_kJrjxJIC:
-    citations: 0
+    citations: 1
     title: Generalised Label-free Artefact Cleaning for Real-time Medical Pulsatile Time Series
     year: '2026'
   pQqEv-wAAAAJ:Se3iqnhoufwC:
-    citations: 24
+    citations: 26
     title: 'Cerebral perfusion pressure targets after traumatic brain injury: a reappraisal'
     year: '2025'
   pQqEv-wAAAAJ:Tyk-4Ss8FVUC:
@@ -78,7 +78,7 @@ papers:
     title: An IoT and wearables-based smart home for ALS patients
     year: '2022'
   pQqEv-wAAAAJ:u5HHmVD_uO8C:
-    citations: 23
+    citations: 24
     title: 'WMNN: Wearables-based multi-column neural network for human activity recognition'
     year: '2022'
   pQqEv-wAAAAJ:ufrVoPGSRksC:
