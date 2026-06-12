@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-12'
 papers:
   pQqEv-wAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: 'Fedfdd: Federated learning with frequency domain decomposition for low-dose ct denoising'
     year: '2024'
   pQqEv-wAAAAJ:5nxA0vEk-isC:
-    citations: 2
+    citations: 3
     title: 'SID: Multi-LLM Debate Driven by Self Signals'
     year: '2025'
   pQqEv-wAAAAJ:8k81kl-MbHgC:
@@ -34,11 +34,11 @@ papers:
     title: Generalised Label-free Artefact Cleaning for Real-time Medical Pulsatile Time Series
     year: '2026'
   pQqEv-wAAAAJ:Se3iqnhoufwC:
-    citations: 26
+    citations: 28
     title: 'Cerebral perfusion pressure targets after traumatic brain injury: a reappraisal'
     year: '2025'
   pQqEv-wAAAAJ:Tyk-4Ss8FVUC:
-    citations: 5
+    citations: 6
     title: 'Revisiting the oxygen reactivity index in traumatic brain injury: the complementary value of combined focal and global autoregulation monitoring'
     year: '2025'
   pQqEv-wAAAAJ:W7OEmFMy1HYC:
@@ -50,7 +50,7 @@ papers:
     title: A unified platform for at-home post-stroke rehabilitation enabled by wearable technologies and artificial intelligence
     year: '2024'
   pQqEv-wAAAAJ:Y0pCki6q_DkC:
-    citations: 27
+    citations: 29
     title: "A deep learning\u2013enabled smart garment for accurate and versatile monitoring of sleep conditions in daily life"
     year: '2025'
   pQqEv-wAAAAJ:YsMSGLbcyi4C:
@@ -62,7 +62,7 @@ papers:
     title: A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence
     year: '2025'
   pQqEv-wAAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 9
     title: A GNN-based indoor localization method using mobile RFID platform
     year: '2022'
   pQqEv-wAAAAJ:eQOLeE2rZwMC:
@@ -70,7 +70,7 @@ papers:
     title: An EMG Based Wearable System for Chinese Sign Language Recognition
     year: '2024'
   pQqEv-wAAAAJ:roLk4NBRz8UC:
-    citations: 18
+    citations: 17
     title: 'Unlocking the potential of high-resolution multimodality neuromonitoring for traumatic brain injury management: lessons and insights from cases, events, and patterns'
     year: '2025'
   pQqEv-wAAAAJ:u-x6o8ySG0sC:
