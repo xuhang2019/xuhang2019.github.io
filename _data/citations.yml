@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-08'
 papers:
   pQqEv-wAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Wearable intelligent throat enables natural speech in stroke patients with dysarthria
     year: '2026'
   pQqEv-wAAAAJ:9yKSN-GCB0IC:
-    citations: 1
+    citations: 2
     title: Chest and Abdomen Respiratory Monitoring by Large Area Piezoresistive Array
     year: '2021'
   pQqEv-wAAAAJ:IjCSPb-OGe4C:
@@ -34,7 +34,7 @@ papers:
     title: Generalised Label-free Artefact Cleaning for Real-time Medical Pulsatile Time Series
     year: '2026'
   pQqEv-wAAAAJ:Se3iqnhoufwC:
-    citations: 28
+    citations: 31
     title: 'Cerebral perfusion pressure targets after traumatic brain injury: a reappraisal'
     year: '2025'
   pQqEv-wAAAAJ:Tyk-4Ss8FVUC:
@@ -42,7 +42,7 @@ papers:
     title: 'Revisiting the oxygen reactivity index in traumatic brain injury: the complementary value of combined focal and global autoregulation monitoring'
     year: '2025'
   pQqEv-wAAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 9
     title: Temporal dynamics and physical priori multimodal network for rehabilitation physical training evaluation
     year: '2024'
   pQqEv-wAAAAJ:WF5omc3nYNoC:
@@ -50,7 +50,7 @@ papers:
     title: A unified platform for at-home post-stroke rehabilitation enabled by wearable technologies and artificial intelligence
     year: '2024'
   pQqEv-wAAAAJ:Y0pCki6q_DkC:
-    citations: 29
+    citations: 34
     title: "A deep learning\u2013enabled smart garment for accurate and versatile monitoring of sleep conditions in daily life"
     year: '2025'
   pQqEv-wAAAAJ:YsMSGLbcyi4C:
@@ -70,7 +70,7 @@ papers:
     title: An EMG Based Wearable System for Chinese Sign Language Recognition
     year: '2024'
   pQqEv-wAAAAJ:roLk4NBRz8UC:
-    citations: 17
+    citations: 18
     title: 'Unlocking the potential of high-resolution multimodality neuromonitoring for traumatic brain injury management: lessons and insights from cases, events, and patterns'
     year: '2025'
   pQqEv-wAAAAJ:u-x6o8ySG0sC:
