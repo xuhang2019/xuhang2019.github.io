@@ -1,20 +1,24 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-29'
 papers:
   pQqEv-wAAAAJ:0EnyYjriUFMC:
-    citations: 0
+    citations: 1
     title: Artefacts in continuous neuromonitoring
     year: '2026'
   pQqEv-wAAAAJ:2osOgNQ5qMEC:
     citations: 5
     title: 'Fedfdd: Federated learning with frequency domain decomposition for low-dose ct denoising'
     year: '2024'
+  pQqEv-wAAAAJ:3fE2CSJIrl8C:
+    citations: 1
+    title: 'CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors'
+    year: '2026'
   pQqEv-wAAAAJ:5nxA0vEk-isC:
     citations: 3
     title: 'SID: Multi-LLM Debate Driven by Self Signals'
     year: '2025'
   pQqEv-wAAAAJ:8k81kl-MbHgC:
-    citations: 12
+    citations: 16
     title: Wearable intelligent throat enables natural speech in stroke patients with dysarthria
     year: '2026'
   pQqEv-wAAAAJ:9yKSN-GCB0IC:
@@ -22,7 +26,7 @@ papers:
     title: Chest and Abdomen Respiratory Monitoring by Large Area Piezoresistive Array
     year: '2021'
   pQqEv-wAAAAJ:IjCSPb-OGe4C:
-    citations: 12
+    citations: 13
     title: Dynamic assessment of signal entropy for prognostication and secondary brain insult detection after traumatic brain injury
     year: '2024'
   pQqEv-wAAAAJ:LkGwnXOMwfcC:
@@ -32,9 +36,9 @@ papers:
   pQqEv-wAAAAJ:MXK_kJrjxJIC:
     citations: 1
     title: Generalised Label-free Artefact Cleaning for Real-time Medical Pulsatile Time Series
-    year: '2026'
+    year: '2025'
   pQqEv-wAAAAJ:Se3iqnhoufwC:
-    citations: 31
+    citations: 32
     title: 'Cerebral perfusion pressure targets after traumatic brain injury: a reappraisal'
     year: '2025'
   pQqEv-wAAAAJ:Tyk-4Ss8FVUC:
@@ -50,7 +54,7 @@ papers:
     title: A unified platform for at-home post-stroke rehabilitation enabled by wearable technologies and artificial intelligence
     year: '2024'
   pQqEv-wAAAAJ:Y0pCki6q_DkC:
-    citations: 34
+    citations: 39
     title: "A deep learning\u2013enabled smart garment for accurate and versatile monitoring of sleep conditions in daily life"
     year: '2025'
   pQqEv-wAAAAJ:YsMSGLbcyi4C:
@@ -74,7 +78,7 @@ papers:
     title: 'Unlocking the potential of high-resolution multimodality neuromonitoring for traumatic brain injury management: lessons and insights from cases, events, and patterns'
     year: '2025'
   pQqEv-wAAAAJ:u-x6o8ySG0sC:
-    citations: 20
+    citations: 21
     title: An IoT and wearables-based smart home for ALS patients
     year: '2022'
   pQqEv-wAAAAJ:u5HHmVD_uO8C:
@@ -86,6 +90,6 @@ papers:
     title: Advancements and future pathway in human body digital twins
     year: '2025'
   pQqEv-wAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: 'Autoregulatory-guided management in traumatic brain injury: does age matter?'
     year: '2025'
