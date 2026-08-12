@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-12'
 papers:
   pQqEv-wAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: 'SID: Multi-LLM Debate Driven by Self Signals'
     year: '2025'
   pQqEv-wAAAAJ:8k81kl-MbHgC:
-    citations: 17
+    citations: 20
     title: Wearable intelligent throat enables natural speech in stroke patients with dysarthria
     year: '2026'
   pQqEv-wAAAAJ:9yKSN-GCB0IC:
@@ -38,7 +38,7 @@ papers:
     title: Generalised Label-free Artefact Cleaning for Real-time Medical Pulsatile Time Series
     year: '2026'
   pQqEv-wAAAAJ:Se3iqnhoufwC:
-    citations: 32
+    citations: 33
     title: 'Cerebral perfusion pressure targets after traumatic brain injury: a reappraisal'
     year: '2025'
   pQqEv-wAAAAJ:Tyk-4Ss8FVUC:
@@ -50,11 +50,11 @@ papers:
     title: Temporal dynamics and physical priori multimodal network for rehabilitation physical training evaluation
     year: '2024'
   pQqEv-wAAAAJ:WF5omc3nYNoC:
-    citations: 5
+    citations: 6
     title: A unified platform for at-home post-stroke rehabilitation enabled by wearable technologies and artificial intelligence
     year: '2024'
   pQqEv-wAAAAJ:Y0pCki6q_DkC:
-    citations: 38
+    citations: 39
     title: "A deep learning\u2013enabled smart garment for accurate and versatile monitoring of sleep conditions in daily life"
     year: '2025'
   pQqEv-wAAAAJ:YsMSGLbcyi4C:
@@ -66,7 +66,7 @@ papers:
     title: A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence
     year: '2025'
   pQqEv-wAAAAJ:d1gkVwhDpl0C:
-    citations: 9
+    citations: 10
     title: A GNN-based indoor localization method using mobile RFID platform
     year: '2022'
   pQqEv-wAAAAJ:eQOLeE2rZwMC:
@@ -74,7 +74,7 @@ papers:
     title: An EMG Based Wearable System for Chinese Sign Language Recognition
     year: '2024'
   pQqEv-wAAAAJ:roLk4NBRz8UC:
-    citations: 19
+    citations: 20
     title: 'Unlocking the potential of high-resolution multimodality neuromonitoring for traumatic brain injury management: lessons and insights from cases, events, and patterns'
     year: '2025'
   pQqEv-wAAAAJ:u-x6o8ySG0sC:
