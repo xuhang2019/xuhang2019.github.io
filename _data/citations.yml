@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-17'
 papers:
   pQqEv-wAAAAJ:0EnyYjriUFMC:
-    citations: 1
+    citations: 2
     title: Artefacts in continuous neuromonitoring
     year: '2026'
   pQqEv-wAAAAJ:2osOgNQ5qMEC:
@@ -34,11 +34,11 @@ papers:
     title: A deep learning-enabled smart garment for versatile sleep behaviour monitoring.
     year: '2024'
   pQqEv-wAAAAJ:MXK_kJrjxJIC:
-    citations: 1
+    citations: 3
     title: Generalised Label-free Artefact Cleaning for Real-time Medical Pulsatile Time Series
     year: '2026'
   pQqEv-wAAAAJ:Se3iqnhoufwC:
-    citations: 33
+    citations: 35
     title: 'Cerebral perfusion pressure targets after traumatic brain injury: a reappraisal'
     year: '2025'
   pQqEv-wAAAAJ:Tyk-4Ss8FVUC:
@@ -54,12 +54,12 @@ papers:
     title: A unified platform for at-home post-stroke rehabilitation enabled by wearable technologies and artificial intelligence
     year: '2024'
   pQqEv-wAAAAJ:Y0pCki6q_DkC:
-    citations: 39
+    citations: 40
     title: "A deep learning\u2013enabled smart garment for accurate and versatile monitoring of sleep conditions in daily life"
     year: '2025'
   pQqEv-wAAAAJ:YsMSGLbcyi4C:
-    citations: 0
-    title: A deep learning-enabled smart garment for accurate and versatile sleep conditions monitoring in daily life
+    citations: 2
+    title: A deep learning-enabled smart garment for accurate and versatile sleep conditions monitoring in daily life. arXiv preprint arXiv 2408.00753
     year: '2024'
   pQqEv-wAAAAJ:_FxGoFyzp5QC:
     citations: 0
@@ -74,7 +74,7 @@ papers:
     title: An EMG Based Wearable System for Chinese Sign Language Recognition
     year: '2024'
   pQqEv-wAAAAJ:roLk4NBRz8UC:
-    citations: 20
+    citations: 22
     title: 'Unlocking the potential of high-resolution multimodality neuromonitoring for traumatic brain injury management: lessons and insights from cases, events, and patterns'
     year: '2025'
   pQqEv-wAAAAJ:u-x6o8ySG0sC:
